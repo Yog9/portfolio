@@ -32,8 +32,12 @@ cursor: pointer;
 color: #eee;
 }
 
+.night{
+    width: 20px;
+    height:20px;
+}
 
-@media screen and (max-width:1028px){
+@media screen and (max-width:1000px){
     .nav{
         height:auto;
 
@@ -41,16 +45,13 @@ color: #eee;
     .nav .brandname{
         text-align: center;
         width:100%;
-
-    }
+}
     .nav .nav-menu{
         width:70%;
-
-    }
+}
     .nav .nav-menu ul{
-        justify-content: center;
-
-    }
+        justify-content: space-around;
+}
     .nav .nav-menu ul li{
         width:20%;
         padding: 10px 0px;

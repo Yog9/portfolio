@@ -1,0 +1,33 @@
+p{
+    margin-bottom: 2px;
+    margin-top:0px;
+}
+.project{
+    margin: 20px auto;
+    padding: 1rem;
+    line-height: 1.7;
+    text-align: justify;
+    display: flex;
+    width: 70%;
+    flex-direction: column;}
+    
+    .project-list{    
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;}
+        .buttons{
+            display: flex;
+    width: 220px;
+    justify-content: space-between;
+    max-width: 100%;
+    justify-self: flex-end;
+        }
+        .project-item{
+            border: 1px solid #9db5b9;
+            border-radius: 5px;
+    text-transform: capitalize;
+    opacity: .8;
+    margin: 20px auto;
+    padding: 1rem 2rem;
+        }
