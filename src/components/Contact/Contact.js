@@ -3,7 +3,7 @@ import './Contact.css';
 export default function Contact() {
     return (
         <React.Fragment>
-            <div className="container">
+            <div className="mainDiv">
                 <div className="contact">
                     <h2>Don't be a stranger, Just say hello &nbsp;<span role="img" aria-label="wink emoji">🤨</span></h2>
                     <p className="contact-para">If you have any queries or just wanna say 'hello', reach out to me via&nbsp;<a href="https://twitter.com/YogitaVerma20">twitter</a> or just email me. You can find me at ↯</p>

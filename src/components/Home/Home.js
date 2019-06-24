@@ -3,7 +3,7 @@ import './Home.css';
 export default class Home extends Component {
     render() {
         return (
-            <div class="container">
+            <div class="mainDiv">
 
                 <div className="inner-content">
                     <p>Hey there I'm</p>

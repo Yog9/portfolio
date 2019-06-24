@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css';
 export default function About() {
     return (
-        <div className="container">
+        <div className="mainDiv">
             <article class="about">
 
                 <h2 class="aboutheading">

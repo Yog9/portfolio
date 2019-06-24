@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <React.Fragment>
+        <div className="container">
           <Navbar />
           <Switch>
             <Route exact path="/" component={Home} />
@@ -18,7 +18,7 @@ class App extends Component {
             <Route path="/projects" component={Projects} />
             <Route path="/about" component={About} />
           </Switch>
-        </React.Fragment>
+        </div>
       </Router>
     )
   }

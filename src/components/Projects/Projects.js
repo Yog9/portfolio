@@ -2,7 +2,7 @@ import React from 'react'
 import './Projects.css';
 export default function Projects() {
     return (
-        <div className="container">
+        <div className="mainDiv">
             <div className="project">
                 <div className="project-list">
                     <div className="project-item">
