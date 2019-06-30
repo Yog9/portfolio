@@ -8,15 +8,12 @@
     display: flex;
     flex-direction: column;
 }
-<<<<<<< HEAD
  a{
   color: #2196f3;
 }
 a:hover{
   color: #eee;
   }
-=======
->>>>>>> 2067251bc91f971e0f76e9565671891697712410
 .contact-para{
     width:50%;
     margin:auto;
