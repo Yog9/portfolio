@@ -1,16 +1,12 @@
 import React from 'react'
 import './Projects.css';
-<<<<<<< HEAD
 import { Link } from "react-router-dom";
-=======
->>>>>>> 2067251bc91f971e0f76e9565671891697712410
 export default function Projects() {
     return (
         <div className="mainDiv">
             <div className="project">
                 <div className="project-list">
                     <div className="project-item">
-<<<<<<< HEAD
                         <h3>Movie Flex</h3>
                         <p><strong>Description:</strong> Browse your favorite Movies, TV shows. Search for specific movies and TV shows.Browse the latest and greatest films and to find information about them.</p>
                         <p><strong> Technologies Used:</strong> JavaScript, ReactJS,Redux, HTML5,CSS3</p>
@@ -36,25 +32,6 @@ export default function Projects() {
                         <div className="buttons">
                             <Link to="https://github.com/Yog9">Souce Code</Link>
                             <Link to="">Live Demo</Link>
-=======
-                        <h3>MovieFlex</h3>
-                        <p><strong>Description:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi recusandae doloribus suscipit facere? Est aliquam ex ducimus officia amet suscipit autem non repudiandae ab sit quam debitis, ipsum eum quibusdam.</p>
-                        <p><strong> Technologies Used:</strong> JavaScript, ReactJS,Redux, HTML5,CSS3</p>
-                        <div className="buttons">
-                            <a href="https://github.com/Yog9">Souce Code</a>
-                            <a href="">Live Demo</a>
-                        </div>
-                    </div>
-
-
-                    <div className="project-item">
-                        <h3>MovieFlex</h3>
-                        <p><strong>Description:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi recusandae doloribus suscipit facere? Est aliquam ex ducimus officia amet suscipit autem non repudiandae ab sit quam debitis, ipsum eum quibusdam.</p>
-                        <p><strong> Technologies Used:</strong> JavaScript, ReactJS,Redux, HTML5,CSS3</p>
-                        <div className="buttons">
-                            <a href="https://github.com/Yog9">Souce Code</a>
-                            <a href="#/">Live Demo</a>
->>>>>>> 2067251bc91f971e0f76e9565671891697712410
                         </div>
                     </div>
                 </div>
