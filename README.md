@@ -7,7 +7,7 @@
 ### Summary
 My React portfolio with web development skills, examples of my projects, contact links, and a bit about me .
 
-![](assets/images/portfolio.gif)
+![](/portfolio.jpg)
 
 ### Built With
 * React 
