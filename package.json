@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yog9.github.io/React-Portfolio",
+  "homepage": "https://yog9.github.io/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
