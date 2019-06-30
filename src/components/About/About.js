@@ -8,12 +8,9 @@ export default function About() {
                 <h2 class="aboutheading">
                     About Me</h2><section class="">
                     <h3 class="pageHeader">Background</h3>
-                    <p>I am a front-end developer from Pune,Maharashtra.
-                    I'm doing web development and I'm on my way to becoming a Full Stack Engineer. I have learned programming from various resources . I have worked at TaxiVaxi Pune as Web Designer for 3 months.</p></section><section class="">
+                    <p>I am a front-end developer from Pune,Maharashtra.I'm doing web development and I'm on my way to become a Full Stack Engineer.I have also worked at BAI Infosystems Private Limited, Pune as Web Designer for 4 months.</p>
                     <h3>Knowledgle In</h3>
-                    <p>I'm knowledgeble in JavaScript,React, Redux,Nodejs and Sass. You can checkout my <a href="/projects">projects</a> (or)
-        at my <a href="https://github.com/Yog9"
-                            target="_blank" rel="noopener noreferrer">github</a> page.</p>
+                    <p>I'm knowledgeble in JavaScript,React, Redux,Nodejs and Sass.I invite you to take a look at my <a href="/https://github.com/Yog9/" target="_blank">Github </a> to see examples of the many self-initiated projects that I have completed.</p>
                 </section>
 
             </article>
