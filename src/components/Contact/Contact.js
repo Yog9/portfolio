@@ -1,13 +1,13 @@
 import React from 'react'
 import './Contact.css';
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 export default function Contact() {
     return (
         <React.Fragment>
             <div className="mainDiv">
                 <div className="contact">
                     <h2>Don't be a stranger, Just say hello &nbsp;<span role="img" aria-label="wink emoji">🤨</span></h2>
-                    <p className="contact-para">If you have any queries or just wanna say 'hello', reach out to me via&nbsp;<a href="https://twitter.com/YogitaVerma20">twitter</a> or just email me. You can find me at ↯</p>
+                    <p className="contact-para">If you have any queries or just wanna say 'hello', reach out to me via&nbsp;<Link to="https://twitter.com/YogitaVerma20">twitter</Link> or just email me. You can find me at ↯</p>
                 </div>
                 <ul className="social-icons">
                     <li><NavLink to="https://twitter.com/YogitaVerma20" title="Yogita Verma on Twitter" class="SocialIconsStyle"><svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50" version="1.1" width="20px" height="20px">
