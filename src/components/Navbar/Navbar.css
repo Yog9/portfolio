@@ -12,7 +12,10 @@
 .brandname{
     background-color: #111;
     font-size: 2rem;
+<<<<<<< HEAD
     color: #90dbf0;
+=======
+>>>>>>> 2067251bc91f971e0f76e9565671891697712410
 
 }
 .nav-menu{
@@ -29,6 +32,7 @@ font-size: 20px;
 list-style-type: none;
 cursor: pointer;
 }
+<<<<<<< HEAD
 .nav-menu ul li:hover,.brandname:hover{
 color: #eee;
 }
@@ -37,6 +41,12 @@ color: #eee;
     position: relative;
     top:12px;
 }
+=======
+.nav-menu ul li:hover{
+color: #eee;
+}
+
+>>>>>>> 2067251bc91f971e0f76e9565671891697712410
 .night{
     width: 20px;
     height:20px;

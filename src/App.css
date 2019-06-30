@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 a {
   text-decoration: none;
 }
+=======
+>>>>>>> 2067251bc91f971e0f76e9565671891697712410
 .footer{
   text-align: center;
   margin-top: 15px;
@@ -33,6 +36,10 @@ body{
 }
 .container{
   background: #0e1621;
+<<<<<<< HEAD
 
+=======
+  padding-top: 20px;
+>>>>>>> 2067251bc91f971e0f76e9565671891697712410
       height: -webkit-fill-available;
 }
