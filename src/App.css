@@ -12,11 +12,9 @@ body{
 }
 .social-icons{
   display: flex;
-  width: 50%;
+  padding: 0px;
   justify-content: space-around;
-  align-items: center;
   list-style: none;
-  margin: 20px auto;
 }
 .SocialIconsStyle{
   display: flex;
@@ -34,4 +32,13 @@ body{
 .container{
   background: #0e1621;
       height: -webkit-fill-available;
+}
+
+@media(min-width:1024px){
+  .social-icons{
+    align-items: center;
+    margin: 20px auto;
+    width: 50%;
+  
+  }
 }
