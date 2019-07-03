@@ -60,7 +60,8 @@ export default function Projects() {
                 <div className ="project-list">
                 <div className="project-item">
                         <h3>Meme Generator</h3>
-                        <p><strong>Description:	&nbsp;</strong>Meme Generator uses an api to fetch images by using axios. User can insert text on different images to make memes.</p>
+                        <p><strong>Description:</strong>
+                        <br/>Meme Generator uses an api to fetch images by using axios. User can insert text on different images to make memes.</p>
                         <p><strong>Technologies Used:&nbsp;</strong>React js , CSS 3</p>
                         <div className="buttons">
                             <a href="https://github.com/Yog9/meme-generator/" rel="noopener noreferrer" target="_blank">Souce Code</a>

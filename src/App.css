@@ -1,6 +1,9 @@
 a {
   text-decoration: none;
 }
+body{
+  overflow-x: hidden;
+}
 .footer{
   text-align: center;
   margin-top: 15px;

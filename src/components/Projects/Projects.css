@@ -22,7 +22,7 @@ p{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  width:100%;
+  width:77%;
   align-items: center;}
 .buttons{
   display: flex;
@@ -48,6 +48,9 @@ p{
   display: flex;
   justify-content: center;
 }
-h4{
-  
+
+@media (min-width:1000px){
+  .project-list{
+    width:77%;
+}
 }
