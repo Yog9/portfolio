@@ -8,8 +8,8 @@ import Contact from './components/Contact/Contact';
 import About from './components/About/About';
 import Projects from './components/Projects/Projects';
 ReactGA.initialize('UA-143242101-1');
-      ReactGA.pageview('/');
-      ReactGA.pageview("/projects");
+      ReactGA.pageview('/portfolio/#/portfolio/');
+      ReactGA.pageview("/portfolio/#/portfolio/projects");
 
 class App extends Component {
  
