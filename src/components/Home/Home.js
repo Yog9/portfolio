@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 export default class Home extends Component {
     render() {
         return (
-            <div class="mainDiv">
+            <div className="mainDiv">
                 <div className="inner-content">
                     <p>Hey there I'm</p>
                     <h2>Yogita Verma</h2>

@@ -22,6 +22,7 @@ p{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  width:100%;
   align-items: center;}
 .buttons{
   display: flex;
@@ -30,10 +31,14 @@ p{
   max-width: 100%;
   justify-self: flex-end;
   }
+  ul{
+    padding:0px;
+    color:white;
+  }
 .project-item{
   border: 1px solid #9db5b9;
   border-radius: 5px;
-  text-transform: capitalize;
+  width:100%;
   opacity: .8;
   margin: 20px auto;
   padding: 1rem 2rem;
@@ -42,4 +47,7 @@ p{
   background: #0e1621;
   display: flex;
   justify-content: center;
+}
+h4{
+  
 }

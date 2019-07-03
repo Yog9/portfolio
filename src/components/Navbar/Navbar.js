@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './Navbar.css';
 import { Link } from "react-router-dom";
+import resume from "../../assets/resume.pdf"
 export default class Navbar extends Component {
 
     render() {
@@ -12,6 +13,8 @@ export default class Navbar extends Component {
                         <Link to="/about"><li>About</li></Link>
                         <Link to="/projects"><li>Projects</li></Link>
                         <Link to="/contact"><li>Contact</li></Link>
+                        <a href = {resume}><li>Resume</li></a>
+                        
                     </ul>
                 </div>
             </div>
