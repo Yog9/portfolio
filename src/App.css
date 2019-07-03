@@ -3,6 +3,7 @@ a {
 }
 body{
   overflow-x: hidden;
+  letter-spacing: 1px;
 }
 .footer{
   text-align: center;
