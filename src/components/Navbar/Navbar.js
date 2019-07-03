@@ -13,7 +13,7 @@ export default class Navbar extends Component {
                         <Link to="/about"><li>About</li></Link>
                         <Link to="/projects"><li>Projects</li></Link>
                         <Link to="/contact"><li>Contact</li></Link>
-                        <a href = {resume}><li>Resume</li></a>
+                        <a href = {resume} rel="noopener noreferrer" target="_blank"><li>Resume</li></a>
                         
                     </ul>
                 </div>

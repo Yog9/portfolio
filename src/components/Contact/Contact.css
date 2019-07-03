@@ -4,7 +4,6 @@
     line-height: 2;
     padding: 2.5rem 1rem;
     text-align: center;
-    text-transform: capitalize;
     display: flex;
     flex-direction: column;
 }
