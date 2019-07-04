@@ -45,8 +45,8 @@ export default function Projects() {
 
                     <div className="project-item">
                         <h3>Shopping Cart</h3>
-                        <p><strong>Description</strong><br/>Shopping Cart is an ecommerce website made with react. User can shop for shirts and also add and remove items from  the cart.</p>
-                        <p><strong>Technologies Used</strong><br/>React, React Router</p>
+                        <p><strong>Description</strong><br/>Shopping Cart is an ecommerce website made with react and redux. User can shop for shirts and also add and remove items from  the cart.</p>
+                        <p><strong>Technologies Used</strong><br/>React, React Router and Redux</p>
                         <div className="buttons">
                             <a href="https://github.com/Yog9/shopping-cart" rel="noopener noreferrer" target="_blank">Souce Code</a>
                             <a href="https://yog9.github.io/shopping-cart/" rel="noopener noreferrer" target="_blank">Live Demo</a>

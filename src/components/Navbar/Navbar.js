@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Navbar.css';
 import { Link } from "react-router-dom";
-import Resume from "../../assets/Resume.pdf"
+import Resume from "../../assets/Front-end-Resume.pdf"
 export default class Navbar extends Component {
 
     render() {
