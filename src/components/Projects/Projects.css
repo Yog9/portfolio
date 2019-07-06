@@ -32,7 +32,7 @@ p{
   justify-self: flex-end;
   }
   ul{
-    padding:0px;
+    margin-left:-13px;
     color:white;
   }
 .project-item{

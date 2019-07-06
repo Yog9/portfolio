@@ -5,7 +5,7 @@ export default function Contact() {
         <React.Fragment>
             <div className="mainDiv">
                 <div className="contact">
-                    <h2>Don't be a stranger, Just say hello &nbsp;<span role="img" aria-label="wink emoji">🤨</span></h2>
+                    <h2>Don't be a stranger, Just say hello &nbsp;<span role="img" aria-label="Grinning Face With Smiling Eyes emoji">😁</span></h2>
                     <p className="contact-para">If you have any queries or just wanna say 'hello', reach out to me via&nbsp;<a href="https://twitter.com/YogitaVerma20" target="_blank" rel="noopener noreferrer">twitter</a> or just email me at <a href="mailto:veryogita@gmail.com">veryogita@gmail.com</a></p>
                 </div>
                 <ul className="social-icons">
