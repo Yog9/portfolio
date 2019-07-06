@@ -20,7 +20,7 @@ export default function About() {
                         <li>BootStrap</li>
                         <li>Git</li>
                         </ul>
-                    <p>I invite you to take a look at my <a href="/https://github.com/Yog9/" target="_blank">Github </a> to see examples of the many self-initiated projects that I have completed.</p>
+                    <p>I invite you to take a look at my <a href="https://github.com/Yog9/" target="_blank">Github </a> to see examples of the many self-initiated projects that I have completed.</p>
                 </section>
 
             </article>
