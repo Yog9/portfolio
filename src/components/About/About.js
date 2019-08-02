@@ -7,7 +7,7 @@ export default function About() {
                 <h2 className="aboutheading">
                     About Me</h2><section className="">
                     <h3 className="pageHeader">Background</h3>
-                    <p>I am a front-end developer from Pune, Maharashtra. I'm doing web development and I'm on my way to become a Full Stack Engineer. I have also worked at TaxiVaxi, Pune as Web Designer for 4 months.</p>
+                    <p>I am a front-end developer. I am currently working as a Software Developer at <a href="https://www.pragyaam.in/" rel="noopener noreferrer" target="_blank">Pragyaam</a>, Bengaluru. I am proficient in React, Redux and JavaScript.</p>
                     <h3>Skills</h3>
                     <ul>
                         <li>JavaScript</li>

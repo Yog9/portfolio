@@ -9,7 +9,7 @@ export default class Home extends Component {
                     <p>Hey there, I'm</p>
                     <h2>Yogita Verma</h2>
                     <p>Front End Developer</p>
-                    <p className="primary">I'm a self-taught Front-End Developer and a life-long learner. I love JavaScript and React. I'm currently looking for internships/jobs. If I'm not coding, I'll be binge-watching.</p>
+                    <p className="primary">I'm a self-taught Front-End Developer and a life-long learner. I love JavaScript and React. I'm currently working as a Software Developer at Pragyaam Bengaluru. I am open to jobs/internships. If I'm not coding, I'll be binge-watching.</p>
                     <p>If you have any queries, feel free to message me on <a href="https://twitter.com/YogitaVerma20" rel="noopener noreferrer" target="_blank">twitter</a> or <Link to="/contact">contact me</Link>.</p>
                     <ul className="social-icons">
                         <li><a href="https://twitter.com/YogitaVerma20" target="_blank" rel="noopener noreferrer" title="Yogita Verma on Twitter" className="SocialIconsStyle"><svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50" version="1.1" width="20px" height="20px">
