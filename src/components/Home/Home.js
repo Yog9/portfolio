@@ -10,7 +10,7 @@ export default class Home extends Component {
           <p> Front End Developer </p>{" "}
           <p className="primary">
             I'm a self-taught Developer, a life-long learner and a Software
-            Engineer. If I' m not coding, I'll be binge-watching.{" "}
+            Engineer. If I'm not coding, I'll be binge-watching.{" "}
           </p>{" "}
           <p>
             If you have any queries, feel free to message me on{" "}
