@@ -1,30 +1,31 @@
-
-h2{
+h2 {
     color: #2196f3;
 }
 
-p{
-    color:white
+p {
+    color: black
 }
-.primary{
+
+.primary {
     margin: 20px auto;
     width: 89%;
-    color: white;
+    color: black;
 }
-.inner-content{
+
+.inner-content {
     border: 1px solid #2196f3;
     padding: 2.5rem 1rem;
     text-align: center;
-    background: #0e1621;
-    margin :auto;
-    margin-top:33px;
+    /* background: #0e1621; */
+    margin: auto;
+    margin-top: 33px;
     line-height: 1.5;
 
-    width:70%;
+    width: 70%;
 }
 
 .mainDiv {
-  background: #0e1621;
-  display: flex;
-  justify-content: center;
+    /* background: #0e1621; */
+    display: flex;
+    justify-content: center;
 }

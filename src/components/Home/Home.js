@@ -1,8 +1,13 @@
 import React, { Component } from "react";
 import "./Home.css";
 import { Link } from "react-router-dom";
+import GitHubCalendar from "react-github-calendar";
+import ReactTooltip from "react-tooltip";
 export default class Home extends Component {
   render() {
+    const defaultTheme = {
+      background: "transparent"
+    };
     return (
       <div className="mainDiv">
         <div className="inner-content">
@@ -92,8 +97,16 @@ export default class Home extends Component {
               </a>{" "}
             </li>{" "}
           </ul>{" "}
+          <GitHubCalendar
+            username="Yog9"
+            years={[2020]}
+            theme={defaultTheme}
+            fullYear={false}
+          >
+            <ReactTooltip delayShow={50} html />
+          </GitHubCalendar>
+          <div className="footer"> Coded By Yogita Verma </div>{" "}
         </div>{" "}
-        <div className="footer"> Coded By Yogita Verma </div>{" "}
       </div>
     );
   }
