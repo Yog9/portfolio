@@ -26,3 +26,14 @@ h3 {
   justify-content: center;
   align-items: center;
 }
+.skills {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 15px;
+}
+.icon {
+  width: 50%;
+}
+.skillsHeader {
+  margin-top: 15px;
+}
