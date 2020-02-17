@@ -43,13 +43,14 @@ const Projects = () => {
             </div>
           </div>
           <div className="project-item">
-            <h3>SnapScout</h3>
+            <h3>Snap Shot</h3>
             <p>
               <strong>Description</strong>
               <br />
-              SnapScout is a multi-page image gallery created using React. Used
-              Axios to write API calls. Provided search functionality and
-              fetched images using Flickr API.
+              Snap Shot is Gallery created using React Hooks,Context API and
+              React Router. The Routes were setup for four default pages and a
+              search page. Also the images were displayed using the Flickr API
+              and axios to fetch data.
             </p>
             <p>
               <strong> Technologies Used</strong>
@@ -58,14 +59,14 @@ const Projects = () => {
             </p>
             <div className="buttons">
               <a
-                href="https://github.com/Yog9/SnapScout"
+                href="https://github.com/Yog9/SnapShot"
                 rel="noopener noreferrer"
                 target="_blank"
               >
                 Source Code
               </a>
               <a
-                href="https://yog9.github.io/SnapScout/"
+                href="https://yog9.github.io/SnapShot"
                 rel="noopener noreferrer"
                 target="_blank"
               >
