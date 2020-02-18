@@ -12,7 +12,7 @@ My portfolio with web development skills, examples of my projects, contact links
 
 ### Built With
 
-- React
-- React Router
+- HTML5
 - CSS3
+- JavaScript
 
