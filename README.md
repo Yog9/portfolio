@@ -1,5 +1,3 @@
-# [Yogita Verma](https://yog9.github.io/portfolio)
-
 ## Front-End Developer Portfolio
 ## Install dependencies
 * npm i
