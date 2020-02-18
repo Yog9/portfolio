@@ -1,0 +1,85 @@
+.nav {
+  background: #111;
+  color: #90dbf0;
+  padding: 5px 10px;
+  height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.brandname {
+  background-color: #111;
+  font-size: 2rem;
+  color: #90dbf0;
+}
+
+.nav-menu {
+  width: 95%;
+}
+
+.nav-menu ul {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-menu ul li {
+  padding: 10px;
+  color: #90dbf0;
+  font-size: 20px;
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.nav-menu ul li {
+  margin-right: 7px;
+}
+
+.nav-menu ul li:hover,
+.brandname:hover {
+  color: #eee;
+}
+
+.theme {
+  position: relative;
+  top: 12px;
+}
+
+.night {
+  width: 20px;
+  height: 20px;
+}
+
+@media screen and (max-width: 1000px) {
+  .nav {
+    height: auto;
+  }
+
+  .nav .brandname {
+    text-align: center;
+    width: 100%;
+  }
+
+  .nav .nav-menu {
+    width: 70%;
+  }
+
+  .nav .nav-menu ul {
+    justify-content: space-around;
+  }
+
+  .nav .nav-menu ul li {
+    width: 20%;
+    padding: 10px 0px;
+    text-align: center;
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .nav .nav-menu {
+    width: 83%;
+  }
+}
