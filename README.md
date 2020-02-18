@@ -8,7 +8,7 @@
 
 My portfolio with web development skills, examples of my projects, contact links, and a bit about me .
 
-![](/portfolio.png)
+![](/assets/images/portfolio.png)
 
 ### Built With
 
