@@ -1,8 +1,10 @@
 # [Yogita Verma](https://yog9.github.io/portfolio)
 
 ## Front-End Developer Portfolio
-
-[Demo of Front-End Developer Portfolio Here](https://yog9.github.io/portfolio)
+## Install dependencies
+* npm i
+## Start Local Server
+* npm start
 
 ### Summary
 
