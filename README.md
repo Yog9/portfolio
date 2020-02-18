@@ -6,7 +6,7 @@
 
 ### Summary
 
-My React portfolio with web development skills, examples of my projects, contact links, and a bit about me .
+My portfolio with web development skills, examples of my projects, contact links, and a bit about me .
 
 ![](/portfolio.png)
 
@@ -16,4 +16,3 @@ My React portfolio with web development skills, examples of my projects, contact
 - React Router
 - CSS3
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
