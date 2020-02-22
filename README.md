@@ -15,3 +15,4 @@ My portfolio with web development skills, examples of my projects, contact links
 - HTML5
 - CSS3
 - JavaScript
+- Bootstrap
